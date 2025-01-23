@@ -1,0 +1,39 @@
+
+.bg{
+  padding: 16px 16px 40px 16px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 #bdbdbd33, 0 6px 20px 0 #bdbdbd33;
+
+}
+.container{
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 960px;
+  
+}
+.img{
+  width: 288px;
+  height: 288px;
+  border-radius: 10px;
+}
+.containerContent{
+  width: 256px;
+  height: 133px;
+  margin: 24px 16px 0px 16px;
+  text-align: center;
+}
+.TextTitle{
+  font-size: 22px;
+  font-weight: 700;
+  color: #1f3251;
+}
+.TextContent{
+  padding-top: 16px;
+  font-size: 15px;
+  font-weight: 400;
+  color: #68778d;
+}
